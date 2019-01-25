@@ -1,0 +1,5 @@
+<root>
+    <item name='org.w3c.dom.DocumentFragment'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

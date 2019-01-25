@@ -1,0 +1,5 @@
+<root>
+    <item name='android.widget.BaseAdapter void notifyDataSetChanged()'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
